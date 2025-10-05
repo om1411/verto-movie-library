@@ -8,9 +8,13 @@ Dynamic Hero Carousel: A stunning, auto-playing carousel on the homepage showcas
 Curated Movie Lists: 
 Discover new films with auto-scrolling carousels and grids for various categories, including:
 1.Popular Movies
+
 2.Trending Bollywood
+
 3.Trending Tollywood
+
 4.Trending Kollywood
+
 5.Trending Hollywood
 
 --> Powerful Movie Search: A fast and responsive search bar that allows you to find any movie by its title, with results displayed instantly.
