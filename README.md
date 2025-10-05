@@ -32,7 +32,7 @@ This project was built using a modern frontend technology stack:
 To get this project running on your own machine, follow these simple steps:
 1.Clone the repository
 2.Open your terminal and run the following command:
-git clone https://github.com/your-username/verto-movie-library.git
+git clone https://github.com/om1411/verto-movie-library.git
 3.Navigate into the project directory
 cd verto-movie-library
 4.Install dependencies
