@@ -1,9 +1,11 @@
 🎬 The OG Movies
+
 Welcome to The OG Movies, a sleek and modern web application for browsing, searching, and curating your personal movie watchlist. Built with a passion for cinema, this app provides a seamless experience for discovering everything from the latest blockbusters to hidden gems across different film industries.
 
 This project was built from the ground up to showcase modern web development practices, featuring a fully interactive and responsive user interface.
 
 ✨ Features
+
 Dynamic Hero Carousel: A stunning, auto-playing carousel on the homepage showcasing trending movies with full-screen backdrops and smooth transitions.
 
 Curated Movie Lists: 
@@ -35,6 +37,7 @@ Discover new films with auto-scrolling carousels and grids for various categorie
 
 
 🛠️ Tech Stack
+
 This project was built using a modern frontend technology stack:
 
 1.React: A powerful JavaScript library for building user interfaces.
