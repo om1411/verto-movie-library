@@ -82,7 +82,7 @@ npm install
 
 npm run dev
 
-12.Your browser should automatically open to the local development server (usually http://localhost:5173). 
+12.Your browser should automatically open to the local development server.
 
 
 You're all set! Enjoy!!
